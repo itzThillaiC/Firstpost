@@ -1,1 +1,1 @@
-# Firstpost
+print("Hello world")
